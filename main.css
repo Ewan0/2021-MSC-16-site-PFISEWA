@@ -6,7 +6,8 @@
 /               Header                /
 /////////////////////////////////////*/
 
-.titre-principale {
+.header{
+    background-color: lightgray;
     text-align: center;
 }
 
