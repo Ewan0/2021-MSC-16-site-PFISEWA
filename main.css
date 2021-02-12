@@ -36,7 +36,10 @@
 
 .image-linux {
     text-align: center;
-    display: inline-block;
+}
+
+.facade-hp {
+    text-align: center;
 }
 
 /*/////////////////////////////////////
