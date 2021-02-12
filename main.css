@@ -27,5 +27,10 @@
 }
 
 /*/////////////////////////////////////
-/           Page Informations         /
+/        Page Investissements         /
 /////////////////////////////////////*/
+
+.image-linux {
+    text-align: center;
+    display: inline-block;
+}
