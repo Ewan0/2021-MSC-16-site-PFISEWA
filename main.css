@@ -29,7 +29,12 @@
 /////////////////////////////////////*/
 
 .logofacebook {
+    margin-left: 50px;
+}
 
+.footer {
+    background-color: black;
+    border-radius: 40% 40% 40% 40%;
 }
 
 /*/////////////////////////////////////
