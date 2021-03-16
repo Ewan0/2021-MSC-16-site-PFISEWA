@@ -50,6 +50,12 @@ p {
     margin-top: 30px;
 }
 
+.img-site-prod {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /*/////////////////////////////////////
 /                Body                 /
 /////////////////////////////////////*/
