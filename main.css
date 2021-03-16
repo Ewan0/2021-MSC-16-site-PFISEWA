@@ -24,6 +24,11 @@ p {
     border-bottom: groove;
 }
 
+.logo-menu {
+    position: absolute;
+    margin-left: 30px;
+}
+
 /*/////////////////////////////////////
 /                Main                 /
 /////////////////////////////////////*/
