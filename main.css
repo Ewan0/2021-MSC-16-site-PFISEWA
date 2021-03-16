@@ -57,12 +57,18 @@ p {
 /////////////////////////////////////*/
 
 .logofacebook {
-    margin-left: 50px;
+    margin-left: 60px;
 }
 
 .footer {
     background-color: black;
-    border-radius: 40% 40% 40% 40%;
+    border-radius: 30% 30% 30% 30%;
+    margin-top: 30px;
+}
+
+.logo-2 {
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 /*/////////////////////////////////////
