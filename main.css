@@ -1,9 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Blinker:wght@300&display=swap');
+
 /*/////////////////////////////////////
 /                Général              /
 /////////////////////////////////////*/
 
 html {
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: 'Blinker', Arial, sans-serif;
     background: #f6f6f6;
     color: #000000;
     line-height: 1.2;
