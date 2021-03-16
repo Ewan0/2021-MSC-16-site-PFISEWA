@@ -2,6 +2,13 @@
 /                Général              /
 /////////////////////////////////////*/
 
+html {
+    font-family: 'Open Sans', Arial, sans-serif;
+    background: white;
+    color: black;
+    line-height: 1.2;
+}
+
 p {
     margin-left: 10px;
     margin-right: 10px;
@@ -20,6 +27,22 @@ p {
 /*/////////////////////////////////////
 /                Main                 /
 /////////////////////////////////////*/
+
+.Menu {
+    background-color: #0397D5;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 22px;
+    list-style-type: none;
+}
+
+.logo-1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
 
 /*/////////////////////////////////////
 /                Body                 /
