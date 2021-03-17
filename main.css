@@ -32,6 +32,7 @@ p {
 .logo-menu {
     position: absolute;
     margin-left: 30px;
+    margin-top: 10px;
 }
 
 /*/////////////////////////////////////
@@ -39,12 +40,20 @@ p {
 /////////////////////////////////////*/
 
 .Menu {
-    background-color: #0397D5;
     margin-top: 20px;
     margin-bottom: 20px;
-    text-align: center;
+
+    background-color: #0397D5;
     font-size: 22px;
+    max-width: 200px;
+
+    text-decoration: none;
     list-style-type: none;
+
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .logo-1 {
