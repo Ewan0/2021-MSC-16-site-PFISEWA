@@ -11,12 +11,16 @@ html {
     background: #f6f6f6;
     color: #000000;
     line-height: 1.2;
-    text-decoration: none;
 }
 
 p {
     margin-left: 10px;
     margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
 }
 
 /*/////////////////////////////////////
@@ -46,8 +50,6 @@ p {
     background-color: #0397D5;
     font-size: 22px;
     max-width: 200px;
-
-    text-decoration: none;
     list-style-type: none;
 
     text-align: center;
@@ -55,6 +57,7 @@ p {
     margin-left: auto;
     margin-right: auto;
 }
+
 
 .logo-1 {
     display: block;
@@ -64,6 +67,12 @@ p {
 }
 
 .img-site-prod {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.retour-en-haut {
     display: block;
     margin-left: auto;
     margin-right: auto;
