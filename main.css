@@ -1,4 +1,4 @@
-/*La police Daytona que j'avais choisi est payante, je donc du prendre la police Blinker*/
+/*La police Daytona que j'avais choisi est payante, je donc du prendre la police Blinker qui lui ressemble*/
 @import url('https://fonts.googleapis.com/css2?family=Blinker:wght@300&display=swap');
 
 /*/////////////////////////////////////
@@ -25,12 +25,6 @@ a {
 /*/////////////////////////////////////
 /               Header                /
 /////////////////////////////////////*/
-
-/*
-.titre-principale {
-    margin-top: -30px;
-}
-*/
 
 .header {
     background-color: lightgray;
