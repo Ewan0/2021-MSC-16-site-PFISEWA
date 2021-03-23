@@ -95,6 +95,18 @@ main table {
     border-color: black;
 }*/
 
+.panneau-hp {
+    text-align: center;
+}
+
+.image-linux {
+    text-align: center;
+}
+
+.facade-hp {
+    text-align: center;
+}
+
 /*/////////////////////////////////////
 /                Body                 /
 /////////////////////////////////////*/
@@ -126,24 +138,4 @@ main table {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-/*/////////////////////////////////////
-/        Page Investissements         /
-/////////////////////////////////////*/
-
-.image-linux {
-    text-align: center;
-}
-
-.facade-hp {
-    text-align: center;
-}
-
-/*/////////////////////////////////////
-/           Page Historique           /
-/////////////////////////////////////*/
-
-.panneau-hp {
-    text-align: center;
 }
