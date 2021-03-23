@@ -95,7 +95,13 @@ table tbody tr {
 
 table {
     text-align: center;
+    background-color: #b6d4e7;
 }
+/*
+main table {
+    border: 10px;
+    border-color: black;
+}*/
 
 /*/////////////////////////////////////
 /                Body                 /
@@ -103,7 +109,6 @@ table {
 
 .titre-page {
     text-align: center;
-    /*margin-top: 50px;*/
 }
 
 /*/////////////////////////////////////
