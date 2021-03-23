@@ -89,6 +89,14 @@ a {
     margin-right: auto;
 }
 
+table tbody tr {
+    font-size: 70%;
+}
+
+table {
+    text-align: center;
+}
+
 /*/////////////////////////////////////
 /                Body                 /
 /////////////////////////////////////*/
