@@ -1,5 +1,10 @@
-/* Écrans moyens >= 481px */
-@media screen and (min-width: 480px) {
+/* Écrans moyens >= 500 */
+@media screen and (min-width: 500px) {
+
+}
+
+/* Écrans moyens >= 900 */
+@media screen and (min-width: 900px) {
 
     header {
         font-size: 22px;
