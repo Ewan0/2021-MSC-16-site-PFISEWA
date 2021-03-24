@@ -38,4 +38,11 @@
         display: block;
         margin-left: 0;
     }
+
+    .panneau-hp {
+        display: block;
+        margin-left: 0;
+        width: 35%;
+        height: 35%;
+    }
 }

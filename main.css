@@ -73,6 +73,8 @@ a {
 
 .retour-en-haut {
     text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .video {
@@ -87,7 +89,6 @@ table tbody tr {
 
 table {
     text-align: center;
-    background-color: #b6d4e7;
 }
 /*
 main table {
@@ -96,7 +97,9 @@ main table {
 }*/
 
 .panneau-hp {
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .image-linux {
