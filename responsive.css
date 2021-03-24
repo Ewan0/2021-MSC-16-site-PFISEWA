@@ -49,6 +49,8 @@
     .facade-hp {
         display: block;
         margin-left: 0;
+        width: 30%;
+        height: 30%;
     }
 
     .panneau-hp {

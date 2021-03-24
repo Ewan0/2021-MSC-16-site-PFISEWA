@@ -103,11 +103,15 @@ main table {
 }
 
 .image-linux {
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .facade-hp {
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /*/////////////////////////////////////
