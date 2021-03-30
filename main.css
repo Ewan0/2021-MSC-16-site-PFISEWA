@@ -1,4 +1,4 @@
-/*La police Daytona que j'avais choisi est payante, je donc du prendre la police Blinker qui lui ressemble*/
+/* La police Daytona que j'avais choisi est payante, j'ai donc du prendre la police Blinker qui lui ressemble */
 @import url('https://fonts.googleapis.com/css2?family=Blinker:wght@300&display=swap');
 
 /*/////////////////////////////////////
@@ -91,11 +91,11 @@ table {
     text-align: center;
 }
 
-/*
-main table {
-    border: 10px;
-    border-color: black;
-}*/
+main table , table tr , table tr td {
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    text-align: center;
+}
 
 .panneau-hp {
     display: block;
