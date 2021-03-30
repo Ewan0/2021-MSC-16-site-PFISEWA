@@ -64,4 +64,18 @@
         width: 35%;
         height: 35%;
     }
+
+    .liste-linux {
+        display: inline-block;
+    }
+
+    .div-linux {
+        float: right;
+        margin-top: 20px;
+        margin-right: 800px;
+    }
+
+    .texte-sous-linux {
+        display: inline-block;
+    }
 }
