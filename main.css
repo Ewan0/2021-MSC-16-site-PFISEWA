@@ -133,7 +133,7 @@ main table , table tr , table tr td {
 
 .footer {
     background-color: black;
-    border-radius: 30% 30% 30% 30%;
+    /*border-radius: 10% 10% 10% 10%;*/
     margin-top: 30px;
 }
 
