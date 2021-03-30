@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Blinker:wght@300&display=swap');
 
 /*/////////////////////////////////////
-/                Général              /
+/                General              /
 /////////////////////////////////////*/
 
 html {
@@ -122,6 +122,9 @@ main table , table tr , table tr td {
 
 .copyright {
     text-align: center;
+    color: #000000;
+    line-height: 1.2;
+    font-weight: normal;
 }
 
 /*/////////////////////////////////////
@@ -142,7 +145,6 @@ main table , table tr , table tr td {
 
 .footer {
     background-color: black;
-    /*border-radius: 10% 10% 10% 10%;*/
     margin-top: 30px;
 }
 
