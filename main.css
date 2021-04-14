@@ -62,7 +62,6 @@ h3 {
     margin-right: auto;
 }
 
-
 .logo-1 {
     display: block;
     margin-left: auto;
@@ -96,7 +95,7 @@ table {
     text-align: center;
 }
 
-main table , table tr , table tr td {
+main table, table tr, table tr td {
     border: 1px solid #000000;
     border-collapse: collapse;
     text-align: center;

@@ -89,4 +89,27 @@
         margin-right: 1px;
         margin-bottom: 1px;
     }
+
+    .Menu {
+        display: inline-block;
+
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-right: 40px;
+        margin-left: 40px;
+
+        background-color: #0397D5;
+        font-size: 30px;
+        max-width: 300px;
+    }
+
+    .logo-1 {
+        display: inline-block;
+        margin-top: 30px;
+    }
+
+    .text-menu {
+        margin-right: 30px;
+        margin-left: 30px;
+    }
 }
