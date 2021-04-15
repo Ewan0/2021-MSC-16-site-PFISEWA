@@ -91,7 +91,7 @@
         margin-top: 2px;
     }
 
-    .Menu {
+    .menu {
         display: inline-block;
 
         margin-top: 20px;
@@ -118,7 +118,11 @@
         margin-left: fill;
     }
 
-    .nav-logo-1 {
-        text-align: center;
+    .menu-gauche {
+
+    }
+
+    .menu-droite {
+
     }
 }
